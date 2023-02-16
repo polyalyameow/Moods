@@ -1,3 +1,6 @@
+
+/*BODY*/
+
 .main {
     min-width: 1440px;
     width: 100%;
@@ -14,6 +17,7 @@
     display: none;
 }
 
+/*MORNING BUTTON*/
 
 .btn-morning{
     background-color: #F9F54B;
@@ -31,6 +35,9 @@
     filter: drop-shadow(0 0 15px  #F9F54B) drop-shadow(0 0 50px #F9F54B) contrast(2) brightness(2);
     animation-delay: 2.3s;
 }
+
+
+/*PLAYER*/
 
 .morning__main-player{
     background: rgba(123, 231, 83, 0.2);

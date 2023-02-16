@@ -1,3 +1,5 @@
+/*BODY*/
+
 body{
     min-width: 1440px;
     width: 100%;
@@ -26,6 +28,8 @@ body::-webkit-scrollbar {
    
 }
 
+/*EVENING BUTTON*/
+
 .btn-evening{
     max-width: 422px;
     width: 100%;
@@ -47,7 +51,7 @@ body::-webkit-scrollbar {
 }
 
 
-
+/*PLAYER*/
 
 .morning__main-wrapper{
     max-width: 1440px;
@@ -84,6 +88,8 @@ body::-webkit-scrollbar {
     }
 
 }
+
+/*FOOTER*/
 
 footer{
     display: flex;

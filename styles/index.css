@@ -1,3 +1,6 @@
+
+/*BODY*/
+
 body{
     max-width: 1440px;
     width: 100%;
@@ -18,6 +21,8 @@ body{
     align-items: center;
     /*border: 2px solid red;*/
 }
+
+/*MORNING BUTTON*/
 
 .main__btn-morning{
     background-color: #F9F54B;
@@ -43,6 +48,7 @@ body{
     filter: drop-shadow(0 0 20px #F9F54B) contrast(2) brightness(2);
 }
 
+/*EVENING BUTTON*/
 
 .main__btn-evening{
     background-color: #DB3EB1;
